@@ -60,6 +60,6 @@
 </div>
 
 ------
-[Anton-dev3306](https://github.com/Anton-dev3306)
+[Ozymandias3396](https://github.com/Ozymandias3396)
 
-Last Edited on: 12/07/2025
+Last Edited on: 05/05/2026
