@@ -55,7 +55,7 @@
     Name:       Oscar
     Role:       Red Team Operator in Training
     Education:  Computer Science @ UCI
-    Location:   Cuba → Europe
+    Location:   Cuba
     Mission:    eJPT → eCPPTv2 → OSCP
     Motto:      "The harder I work, the luckier I get."
 
