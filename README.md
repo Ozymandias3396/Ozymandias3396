@@ -4,7 +4,7 @@
      ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=500&color=FF3333&center=true&vCenter=true&width=700&lines=%E2%96%BA+Oscar+%7C+Red+Team+Operator;%E2%96%BA+Computer+Science+%7C+UCI+%7C+Cuba;%E2%96%BA+eJPT+%E2%86%92+eCPPTv2+%E2%86%92+OSCP;%E2%96%BA+Sweat+in+the+lab%2C+bleed+less+in+the+field" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=500&color=FF3333&center=true&vCenter=true&width=700&lines=%E2%96%BA+Oscar+%7C+Red+Team+Operator;%E2%96%BA+Computer+Science+%7C+UCI+%7C+Cuba;%E2%96%BA+eJPT+%E2%86%92+eCPPTv2+%E2%86%92+OSCP;%E2%96%BA+Sweat+in+the+lab%2C+bleed+less+in+the+field " alt="Typing SVG" />
   
   <br>
   
@@ -181,8 +181,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
   
   <br><br>
-  
-  <i>"Cuanto más sudo en el laboratorio, menos sangro en el campo de batalla."</i>
   
   <br><br>
   
