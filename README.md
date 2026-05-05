@@ -43,26 +43,25 @@
   <img src="https://img.shields.io/badge/Target-Europe-0077B5?style=flat-square&logo=europeanunion&logoColor=white" alt="Target"/>
   
   <br><br>
-  
-  <!-- TERMINAL STYLE BOX -->
-  <pre style="background-color:#0D1117; color:#FF3333; padding:20px; border-radius:10px; border:1px solid #FF3333; text-align:left; display:inline-block; font-family:'Courier New',monospace;">
-  ┌──(root㉿kali)-[~/red-team]
-  └─# cat /home/oscar/whoami.txt
-  
-  <b>Name:</b>       Oscar
-  <b>Role:</b>       Red Team Operator in Training
-  <b>Education:</b>  Computer Science @ UCI
-  <b>Location:</b>   Cuba → Europe
-  <b>Mission:</b>    eJPT → eCPPTv2 → OSCP
-  <b>Motto:</b>      "The harder I work, the luckier I get."
-  
-  ┌──(root㉿kali)-[~/red-team]
-  └─# 
-  </pre>
-  
-</div>
 
-<br><br>
+  </div>
+  
+<!-- TERMINAL BOX - Outside center div to preserve left alignment -->
+
+```console
+┌──(root💀kali)-[~/red-team]
+└─# cat /home/oscar/whoami.txt
+
+    Name:       Oscar
+    Role:       Red Team Operator in Training
+    Education:  Computer Science @ UCI
+    Location:   Cuba → Europe
+    Mission:    eJPT → eCPPTv2 → OSCP
+    Motto:      "The harder I work, the luckier I get."
+
+┌──(root💀kali)-[~/red-team]
+└─# 
+```
 
 <!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
 
@@ -233,8 +232,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
   
   <br><br>
-  
-  <i>"Cuanto más sudo en el laboratorio, menos sangro en el campo de batalla."</i>
   
   <br><br>
   
