@@ -7,7 +7,7 @@
   
   <!-- ANIMATED TYPING HEADER -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FF3333&center=true&vCenter=true&width=800&lines=%E2%96%BA+WHOAMI+%3A%3A+OSCAR;%E2%96%BA+RED+TEAM+OPERATOR+IN+TRAINING;%E2%96%BA+CS+STUDENT+%7C+UCI+%7C+CUBA;%E2%96%BA+eJPT+%E2%86%92+eCPPTv2+%E2%86%92+OSCP;%E2%96%BA+THE+HARDER+I+WORK%2C+THE+LUCKIER+I+GET" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FF3333&center=true&vCenter=true&width=800&lines=%E2%96%BA+OSCAR+%7C+RED+TEAM+OPERATOR;%E2%96%BA+CS+%40+UCI+%7C+RED+TEAM+TRACK;%E2%96%BA+eJPT+%E2%86%92+eCPPTv2+%E2%86%92+OSCP;%E2%96%BA+BREAK+IN.+LEARN.+ADAPT.+REPEAT." alt="Typing SVG" />
   </a>
   
   <br>
@@ -37,73 +37,44 @@
   <br><br>
   
   <!-- STATUS BADGES -->
-  <img src="https://img.shields.io/badge/OS-Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali"/>
-  <img src="https://img.shields.io/badge/Status-Red_Team_Operator_in_Training-FF3333?style=flat-square" alt="Status"/>
-  <img src="https://img.shields.io/badge/Location-Cuba-FF3333?style=flat-square" alt="Location"/>
-  <img src="https://img.shields.io/badge/Target-Europe-0077B5?style=flat-square&logo=europeanunion&logoColor=white" alt="Target"/>
+  <img src="https://img.shields.io/badge/OS-Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali"/>
+  <img src="https://img.shields.io/badge/Status-Red_Team_Operator_in_Training-FF3333?style=for-the-badge" alt="Status"/>
+  <img src="https://img.shields.io/badge/Location-Cuba-FF3333?style=for-the-badge" alt="Location"/>
+  <img src="https://img.shields.io/badge/Target-Europe-0077B5?style=for-the-badge&logo=europeanunion&logoColor=white" alt="Target"/>
   
   <br><br>
 
-  </div>
+</div>
+
+<!-- ═══════════════════════ CURRENT FOCUS ═══════════════════════ -->
+
+<div align="center">
+  <h2>🎯 CURRENT FOCUS</h2>
   
-<!-- TERMINAL BOX - Outside center div to preserve left alignment -->
-
-```console
-┌──(root💀kali)-[~/red-team]
-└─# cat /home/oscar/whoami.txt
-
-    Name:       Oscar
-    Role:       Red Team Operator in Training
-    Education:  Computer Science @ UCI
-    Location:   Cuba
-    Mission:    eJPT → eCPPTv2 → OSCP
-    Motto:      "The harder I work, the luckier I get."
-
-┌──(root💀kali)-[~/red-team]
-└─# 
-```
-
-<!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
+  <table align="center" border="0" cellpadding="15">
+    <tr align="center">
+      <td width="200">
+        <img src="https://img.shields.io/badge/eJPT-🔴_In_Progress-FF3333?style=for-the-badge" alt="eJPT"/><br>
+        <sub>Junior Penetration Tester</sub>
+      </td>
+      <td width="50"><h3>→</h3></td>
+      <td width="200">
+        <img src="https://img.shields.io/badge/eCPPTv2-⚫_Planned-808080?style=for-the-badge" alt="eCPPTv2"/><br>
+        <sub>Professional Penetration Tester</sub>
+      </td>
+      <td width="50"><h3>→</h3></td>
+      <td width="200">
+        <img src="https://img.shields.io/badge/OSCP-⚫_Planned-808080?style=for-the-badge" alt="OSCP"/><br>
+        <sub>Offensive Security Certified</sub>
+      </td>
+    </tr>
+  </table>
+  <br>
+  <sub>Building hands-on experience through TryHackMe, Hack The Box, and personal lab environments. Currently pursuing my Computer Science degree at UCI (Class of 2029).</sub>
+</div>
 
 <br><br>
 
-<h2 align="center">👤 WHOAMI</h2>
-
-<br>
-
-<table align="center" border="0" cellpadding="20">
-  <tr>
-    <!-- LEFT COLUMN: INFO -->
-    <td width="55%" valign="top">
-      <h3>🧠 BIO</h3>
-      <p>
-        🎓 <b>Computer Science Engineering</b> student<br>
-        🏛️ <b>Universidad de las Ciencias Informáticas (UCI)</b><br>
-        📍 <b>Cuba</b> — Next stop: <b>Europe</b><br>
-        📅 Graduation: <b>Class of 2029</b><br>
-        🔴 Specializing in <b>Offensive Security — Red Team</b><br>
-        🐧 Living on <b>Kali Linux</b> natively. Terminal is home.<br>
-        📬 Reach me at: <a href="mailto:ozrv96@gmail.com"><code>ozrv96@gmail.com</code></a>
-      </p>
-      <br>
-      <h3>🎯 CURRENT MISSION</h3>
-      <p>
-        <code>eJPT</code> &nbsp;─────►&nbsp;
-        <code>eCPPTv2</code> &nbsp;─────►&nbsp;
-        <code>OSCP</code>
-      </p>
-      <img src="https://img.shields.io/badge/eJPT-🔴_In_Progress-FF3333?style=for-the-badge" alt="eJPT"/>
-      <img src="https://img.shields.io/badge/eCPPTv2-⚫_Planned-808080?style=for-the-badge" alt="eCPPTv2"/>
-      <img src="https://img.shields.io/badge/OSCP-⚫_Planned-808080?style=for-the-badge" alt="OSCP"/>
-    </td>
-    <!-- RIGHT COLUMN: GIF -->
-    <td width="45%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="280" alt="Hacker Matrix GIF"/>
-      <br>
-      <sub>⚠️ Authorized testing only. All activity within controlled lab environments.</sub>
-    </td>
-  </tr>
-</table>
 <!-- ═══════════════════════ ARSENAL ═══════════════════════ -->
 
 <div align="center">
@@ -230,15 +201,13 @@
 <!-- ═══════════════════════ FOOTER ═══════════════════════ -->
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ozymandias3396&label=Visitors&color=FF3333&style=flat-square" alt="Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Ozymandias3396&label=Visitors&color=FF3333&style=for-the-badge" alt="Views"/>
   
   <br><br>
   
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
   
   <br><br>
-  
-  <br><br>
-  
+ 
   <sub>Ozymandias3396 · Last updated: 2026-05-06</sub>
 </div>
