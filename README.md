@@ -65,40 +65,45 @@
 
 <!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
 
-<table align="center" border="0">
+<br><br>
+
+<h2 align="center">👤 WHOAMI</h2>
+
+<br>
+
+<table align="center" border="0" cellpadding="20">
   <tr>
+    <!-- LEFT COLUMN: INFO -->
     <td width="55%" valign="top">
-      <h2>👤 WHOAMI</h2>
+      <h3>🧠 BIO</h3>
       <p>
         🎓 <b>Computer Science Engineering</b> student<br>
         🏛️ <b>Universidad de las Ciencias Informáticas (UCI)</b><br>
-        📍 <b>Cuba</b> → Next stop: <b>Europe</b><br>
+        📍 <b>Cuba</b> — Next stop: <b>Europe</b><br>
         📅 Graduation: <b>Class of 2029</b><br>
         🔴 Specializing in <b>Offensive Security — Red Team</b><br>
-        🐧 Living on <b>Kali Linux</b> natively<br>
-        📬 <code>ozrv96@gmail.com</code>
+        🐧 Living on <b>Kali Linux</b> natively. Terminal is home.<br>
+        📬 Reach me at: <a href="mailto:ozrv96@gmail.com"><code>ozrv96@gmail.com</code></a>
       </p>
       <br>
       <h3>🎯 CURRENT MISSION</h3>
       <p>
-        <code>eJPT</code> &nbsp;─►&nbsp;
-        <code>eCPPTv2</code> &nbsp;─►&nbsp;
+        <code>eJPT</code> &nbsp;─────►&nbsp;
+        <code>eCPPTv2</code> &nbsp;─────►&nbsp;
         <code>OSCP</code>
       </p>
-      <img src="https://img.shields.io/badge/eJPT-🔴_In_Progress-FF3333?style=flat-square" alt="eJPT"/>
-      <img src="https://img.shields.io/badge/eCPPTv2-⚫_Planned-808080?style=flat-square" alt="eCPPTv2"/>
-      <img src="https://img.shields.io/badge/OSCP-⚫_Planned-808080?style=flat-square" alt="OSCP"/>
+      <img src="https://img.shields.io/badge/eJPT-🔴_In_Progress-FF3333?style=for-the-badge" alt="eJPT"/>
+      <img src="https://img.shields.io/badge/eCPPTv2-⚫_Planned-808080?style=for-the-badge" alt="eCPPTv2"/>
+      <img src="https://img.shields.io/badge/OSCP-⚫_Planned-808080?style=for-the-badge" alt="OSCP"/>
     </td>
+    <!-- RIGHT COLUMN: GIF -->
     <td width="45%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220" alt="Hacking Cat GIF"/>
+      <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="280" alt="Hacker Matrix GIF"/>
       <br>
-      <sub>⚠️ Authorized testing only</sub>
+      <sub>⚠️ Authorized testing only. All activity within controlled lab environments.</sub>
     </td>
   </tr>
 </table>
-
-<br><br>
-
 <!-- ═══════════════════════ ARSENAL ═══════════════════════ -->
 
 <div align="center">
