@@ -4,10 +4,20 @@
      ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=500&color=FF3333&center=true&vCenter=true&width=700&lines=%E2%96%BA+Oscar+%7C+Red+Team+Operator;%E2%96%BA+Computer+Science+%7C+UCI+%7C+Cuba;%E2%96%BA+eJPT+%E2%86%92+eCPPTv2+%E2%86%92+OSCP;%E2%96%BA+Sweat+in+the+lab%2C+bleed+less+in+the+field " alt="Typing SVG" />
+  
+  <!-- ANIMATED TYPING HEADER -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FF3333&center=true&vCenter=true&width=800&lines=%E2%96%BA+WHOAMI+%3A%3A+OSCAR;%E2%96%BA+RED+TEAM+OPERATOR+IN+TRAINING;%E2%96%BA+CS+STUDENT+%7C+UCI+%7C+CUBA;%E2%96%BA+eJPT+%E2%86%92+eCPPTv2+%E2%86%92+OSCP;%E2%96%BA+THE+HARDER+I+WORK%2C+THE+LUCKIER+I+GET" alt="Typing SVG" />
+  </a>
   
   <br>
   
+  <!-- GLITCH DIVIDER -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+  
+  <br>
+  
+  <!-- SOCIAL BADGES -->
   <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -23,6 +33,33 @@
   <a href="https://www.hackthebox.com/" target="_blank">
     <img src="https://img.shields.io/badge/Hack_The_Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box"/>
   </a>
+  
+  <br><br>
+  
+  <!-- STATUS BADGES -->
+  <img src="https://img.shields.io/badge/OS-Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali"/>
+  <img src="https://img.shields.io/badge/Status-Red_Team_Operator_in_Training-FF3333?style=flat-square" alt="Status"/>
+  <img src="https://img.shields.io/badge/Location-Cuba-FF3333?style=flat-square" alt="Location"/>
+  <img src="https://img.shields.io/badge/Target-Europe-0077B5?style=flat-square&logo=europeanunion&logoColor=white" alt="Target"/>
+  
+  <br><br>
+  
+  <!-- TERMINAL STYLE BOX -->
+  <pre style="background-color:#0D1117; color:#FF3333; padding:20px; border-radius:10px; border:1px solid #FF3333; text-align:left; display:inline-block; font-family:'Courier New',monospace;">
+  ┌──(root㉿kali)-[~/red-team]
+  └─# cat /home/oscar/whoami.txt
+  
+  <b>Name:</b>       Oscar
+  <b>Role:</b>       Red Team Operator in Training
+  <b>Education:</b>  Computer Science @ UCI
+  <b>Location:</b>   Cuba → Europe
+  <b>Mission:</b>    eJPT → eCPPTv2 → OSCP
+  <b>Motto:</b>      "The harder I work, the luckier I get."
+  
+  ┌──(root㉿kali)-[~/red-team]
+  └─# 
+  </pre>
+  
 </div>
 
 <br><br>
@@ -169,6 +206,21 @@
   <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ozymandias3396&theme=redical&bg_color=0D1117&color=FF3333&line=FF3333&point=FFFFFF&hide_border=true" alt="Activity Graph"/>
 </div>
 
+<br>
+
+<!-- ═══════════════════════ SNAKE ANIMATION ═══════════════════════ -->
+
+<div align="center">
+  <h2>🐍 CONTRIBUTION SNAKE</h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ozymandias3396/Ozymandias3396/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ozymandias3396/Ozymandias3396/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Ozymandias3396/Ozymandias3396/output/github-contribution-grid-snake.svg" width="85%" />
+  </picture>
+  <br>
+  <sub>🐍 The snake eats my contributions... for now.</sub>
+</div>
+
 <br><br>
 
 <!-- ═══════════════════════ FOOTER ═══════════════════════ -->
@@ -181,6 +233,8 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
   
   <br><br>
+  
+  <i>"Cuanto más sudo en el laboratorio, menos sangro en el campo de batalla."</i>
   
   <br><br>
   
